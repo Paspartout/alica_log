@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>alica_log</name>
+  <version>0.0.0</version>
+  <description>The alica_log package</description>
+
+  <maintainer email="paspartout@fogglabs.de">Phileas Vöcking</maintainer>
+
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>alica_ros_proxy</depend>
+
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+
+  </export>
+</package>
